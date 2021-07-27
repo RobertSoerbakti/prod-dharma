@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.c452428c08794a7d28cc5a2a427e6345.js"
+  "precache-manifest.80d4891cc55de88be57a63bba62e377d.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "fd_dharma_group"});
